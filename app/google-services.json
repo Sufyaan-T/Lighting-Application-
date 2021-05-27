@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827860755694",
+    "firebase_url": "https://lighting-app-b0544-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lighting-app-b0544",
+    "storage_bucket": "lighting-app-b0544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827860755694:android:677d6b26a14504661bffff",
+        "android_client_info": {
+          "package_name": "com.example.lightcontrollerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827860755694-36sc5q55b6j91i0tdnbhssf6c984b1ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdERFYdHUS6G6Zv0ulkkCC_Jmj5BHsbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827860755694-36sc5q55b6j91i0tdnbhssf6c984b1ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
